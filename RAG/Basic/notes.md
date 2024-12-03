@@ -14,3 +14,5 @@ RAG is the answer.. The context of modern data isn't updated in these older mode
 3. Embed Documents
 
 4. Retrieve the Documents
+
+## Chroma DB
